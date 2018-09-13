@@ -21,7 +21,8 @@ if diastolic < 60 or diastolic > 80:
 if systolic != 'abnormal' and diastolic != 'abnormal':
     print ("Your blood pressure is normal.")
 else:
-    print ("Your blood pressure is abnormal."
+    print ("Your blood pressure is abnormal.")
+    
            
     
     
